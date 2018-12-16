@@ -8,7 +8,7 @@
     margin-bottom: 0;
     background-color: #fff;
     background-image: url('img/banjo.jpg');
-    
+    background-position: bottom center;
     background-repeat: no-repeat;
     background-size: cover;
 }
